@@ -1,0 +1,39 @@
+   #textinput{
+        height: 40px;
+        width: 300px;
+      }
+
+#textwrap{
+
+  background: #cdcdcd;
+  width: 100%;
+  min-height: 100px;
+}
+.font12{
+
+  font-size: 12px;
+}
+.font14{
+
+  font-size: 14px;
+}
+.font16{
+
+  font-size: 16px;
+}
+.font18{
+
+  font-size: 18px;
+}
+.color1{
+color: black;
+}
+.color2{
+color: #FF5733;
+}
+.color3{
+color: #4E2118;
+}
+.color4{
+color: #0D41E2;
+}
